@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "R": {
+      "item": "loyomod:emerald_chestplate"
+    },
+    "#": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "loyomod:super_emerald_chestplate"
+  }
+}

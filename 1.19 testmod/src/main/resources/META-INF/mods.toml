@@ -1,0 +1,15 @@
+
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+[[mods]]
+
+modId="loyomod"
+version="1.0"
+displayName="Loyo Mod"
+logoFile="examplemod.png"
+credits="Loyodea"
+authors="Loyodea"
+description='''
+ohhhhhhhhhh
+'''
